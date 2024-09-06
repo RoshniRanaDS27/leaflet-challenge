@@ -45,6 +45,8 @@ extended the earthquake visualization to include tectonic plates data, giving a 
 ### url : https://github.com/fraxen/tectonicplates
 ![image](https://github.com/user-attachments/assets/3c245b4c-53e8-442f-a8aa-8683bba32b47)
 ![image](https://github.com/user-attachments/assets/6cd2c707-504c-4a8e-8874-2843db60b06a)
+![image](https://github.com/user-attachments/assets/a1cd8108-370f-4bab-87dd-c94983e0c340)
+
 
 ### 1. Importing the Tectonic Plates Dataset:
 - Used the dataset from the GitHub repository provided, which contains information about tectonic plate boundaries.
