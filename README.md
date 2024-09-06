@@ -1,7 +1,7 @@
 # Earthquake and Tectonic Plate Visualization using Leaflet 
 The United States Geological Survey (USGS) was responsible for providing scientific data about natural hazards, the health of ecosystems and the environment, and the impacts of climate and land-use change. Their scientists developed new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.  
 
-<img src="https://erikayi.github.io/assets/images/portfolio/earthquake/Earthquake%20and%20Tectonic%20Plates%20Data%20Visualization-high.gif" class="card-img-top" alt="Project 16">
+![6-Time_Keeps_On_Ticking](https://github.com/user-attachments/assets/45d14e5c-3215-446a-a39e-b77f64b10082)
 
 The USGS was interested in building a new set of tools to visualize their earthquake data. They collected a massive amount of data from all over the world each day, but lacked a meaningful way of displaying it. In this challenge, you were tasked with developing a way to visualize USGS data to help them better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet. Inside your local Git repository, you created a directory for the Leaflet challenge, using folder names to correspond to the challenges:
 # Instructions
