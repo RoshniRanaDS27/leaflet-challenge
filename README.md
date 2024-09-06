@@ -1,6 +1,8 @@
 # Earthquake and Tectonic Plate Visualization using Leaflet 
 The United States Geological Survey (USGS) was responsible for providing scientific data about natural hazards, the health of ecosystems and the environment, and the impacts of climate and land-use change. Their scientists developed new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.  
 
+<img src="https://erikayi.github.io/assets/images/portfolio/earthquake/Earthquake%20and%20Tectonic%20Plates%20Data%20Visualization-high.gif" class="card-img-top" alt="Project 16">
+
 The USGS was interested in building a new set of tools to visualize their earthquake data. They collected a massive amount of data from all over the world each day, but lacked a meaningful way of displaying it. In this challenge, you were tasked with developing a way to visualize USGS data to help them better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet. Inside your local Git repository, you created a directory for the Leaflet challenge, using folder names to correspond to the challenges:
 # Instructions
 The instructions for this activity are broken into two parts:
@@ -42,6 +44,7 @@ The final visualization included all earthquake markers plotted with varying siz
 extended the earthquake visualization to include tectonic plates data, giving a clearer view of the relationship between seismic activity and plate boundaries. Here’s how I completed the optional part:
 ### url : https://github.com/fraxen/tectonicplates
 ![image](https://github.com/user-attachments/assets/3c245b4c-53e8-442f-a8aa-8683bba32b47)
+![image](https://github.com/user-attachments/assets/6cd2c707-504c-4a8e-8874-2843db60b06a)
 
 ### 1. Importing the Tectonic Plates Dataset:
 - Used the dataset from the GitHub repository provided, which contains information about tectonic plate boundaries.
