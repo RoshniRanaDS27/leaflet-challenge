@@ -7,7 +7,7 @@ The USGS was interested in building a new set of tools to visualize their earthq
 # Instructions
 The instructions for this activity are broken into two parts:
 - Part 1: Create the Earthquake Visualization
-- Part 2: Gather and Plot More Data (Optional with no extra points earning)
+- Part 2: Gather and Plot More Data 
   
 This challenge used both HTML and JavaScript, so you added all the necessary files. These were the main files for running the analysis.
 # Part 1: Created the Earthquake Visualization
